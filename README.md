@@ -1,4 +1,4 @@
-q# Customer-Product_Analysis_Project
+# Customer-Product_Analysis_Project
 
 ![](Customers-Products_Dashboard.png)
 ---
