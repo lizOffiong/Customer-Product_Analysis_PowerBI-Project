@@ -1,4 +1,4 @@
-# Customer-Product_Analysis_Project
+q# Customer-Product_Analysis_Project
 
 ![](Customers-Products_Dashboard.png)
 ---
@@ -32,6 +32,8 @@ _**These actions can help understand customer needs better and enhance their exp
  * I got rid of columns that were not relevant to the analysis.
  * Extracted the age information from the DOB column and added a column to categorize individuals into different age groups.
  * Developed a calendar table to obtain the year, month and corresponding month names.
+
+#### You can interact with the dashboard [here](https://app.powerbi.com/links/Du_ousn8j1?ctid=7a7d9927-84e9-4910-b10f-850c64b28029&pbi_source=linkShare)
 
 
 
