@@ -1,4 +1,4 @@
-# Customer-Product_Analysis_Project
+# Customer & Product Analysis
 
 ![](Customers-Products_Dashboard.png)
 ---
